@@ -22,6 +22,7 @@
     "jspdf": "^1.2.60",
     "rxjs": "~6.6.0",
     "tslib": "^2.0.0",
+    "zip": "^1.2.0",
     "zone.js": "~0.11.3"
   },
   "devDependencies": {
